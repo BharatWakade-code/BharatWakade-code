@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bharat Wakade</h1>
 <h3 align="center">Cross Platfrom Mobile App Developer </h3>
 
-- 🌱 I’m currently learning **Flutter , Dart**
+- 🌱 I’m currently learning **Flutter , Dart ,Bloc Cubit**
 
-- 💬 Ask me about **Java , C# , Dart**
+- 💬 Ask me about **Java , Dart**
 
 - 📫 How to reach me **Bharatwakade012@gmail.com**
 
